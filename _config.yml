@@ -1,0 +1,19 @@
+# Dependencies
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Enhedron
+tagline:          'A programming blog'
+description:      'A programming blog'
+url:              http://enhedron.com
+baseurl:          /
+
+author:
+  name:           'Enhedron'
+  url:            http://enhedron.com
+
+github:
+  repo: https://github.com/simon-bourne
