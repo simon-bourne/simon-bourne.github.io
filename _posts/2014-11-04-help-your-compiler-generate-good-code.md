@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Make Your Compiler Love You"
+title:  "Help Your Compiler Generate Good Code"
 date:   2014-11-04 10:51:29
 categories: C++ Optimization
 excerpt: >
