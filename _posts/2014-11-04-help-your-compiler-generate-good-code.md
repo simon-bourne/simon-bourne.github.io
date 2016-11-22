@@ -15,7 +15,7 @@ Take a look at the seemly inoccuous looking function in `Enhedron/Examples/Add.c
 
 Then take a look at the generated assembly!
 
-{% highlight gas %}
+{% highlight GAS %}
 {% include how-to-make-your-compiler-love-you/Add.s %}
 {% endhighlight %}
 
@@ -33,7 +33,7 @@ The code in `Enhedron/Examples/AddAligned.cpp` tells the compiler that it can ma
 
 This is the generated assembly.
 
-{% highlight gas %}
+{% highlight GAS %}
 {% include how-to-make-your-compiler-love-you/AddAligned.s %}
 {% endhighlight %}
 
@@ -47,7 +47,7 @@ The code in `Enhedron/Examples/AddAligned.cpp` tells the compiler that it can as
 
 This is the generated assembly.
 
-{% highlight gas %}
+{% highlight GAS %}
 {% include how-to-make-your-compiler-love-you/AddStrict.s %}
 {% endhighlight %}
 
